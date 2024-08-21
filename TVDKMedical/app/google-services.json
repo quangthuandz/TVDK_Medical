@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734093414804",
+    "project_id": "tvdkmedical",
+    "storage_bucket": "tvdkmedical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734093414804:android:beb16dbd2bee6cecfa3f81",
+        "android_client_info": {
+          "package_name": "com.example.tvdkmedical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv50jW6SQ6XKySiaix3X-QpYmS_2uBHM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
